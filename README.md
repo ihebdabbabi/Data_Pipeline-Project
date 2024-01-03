@@ -24,7 +24,8 @@ Le travail est divisé en trois parties:
 
 Cette première étape est essentielle pour fournir au pipeline de données les informations nécessaires. Vous trouverez ci-dessous l'illustration du schéma créé avec NiFi.
 
-![Algorithm schema](./nifi/nifi f.png)
+<img width="811" alt="nifi f" src="https://github.com/ihebdabbabi/Data_Pipeline-Project/assets/136711502/c21630d0-75ef-4d2f-a2d4-4b71b2869598">
+
 !![Algorithm schema](./nifi/nifi2.png)
 Notre processus de gestion des données s'articule autour de deux flux distincts, chacun comportant des étapes spécifiques pour assurer la qualité et l'intégrité des informations.
 
